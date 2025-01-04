@@ -29,22 +29,22 @@ Enables users to monitor their financial habits, track previous transactions, an
 - **XChart:** Generates interactive charts for visualizing financial data.
 - **AbsoluteLayout:** Facilitates precise positioning of UI components.
 
-  ###Login/Sign-up
+Login/Sign-up
 ![LOGIN PAGE](https://github.com/user-attachments/assets/b9f1f001-60a5-41c1-b8b7-ed4141aff2c6)
 
-###Home Page
+Home Page
 ![HOME PAGE](https://github.com/user-attachments/assets/192e1d53-85b2-4f7f-9a91-a952f5cafc9e)
 
-###Accounts
+Accounts
 ![ACCOUNTS](https://github.com/user-attachments/assets/4dac6a48-5a9b-4b60-acb1-dcc77cbf508f)
 
-###Incomes
+Incomes
 ![INCOMES](https://github.com/user-attachments/assets/58748556-f37b-4fde-99ac-75e32f8befd1)
 
-###Expenses
+Expenses
 ![EXPENSES](https://github.com/user-attachments/assets/d3a6f968-6579-4fb6-b0cc-c5408114d5b9)
 
-###Budget
+Budget
 ![BUDGET](https://github.com/user-attachments/assets/63ffd9a4-71a9-4f21-ba48-8e4055a7e4cd)
 
 ## Installation
